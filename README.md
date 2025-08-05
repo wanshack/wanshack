@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanshack
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Cloud Engineer
+- 👀 I’m interested in Cloud Computing and Cybersecurity 
+- 🌱 I’m currently learning Cybersecurity (Penetration Testing)
 .
 
 <!---
